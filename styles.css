@@ -1,0 +1,13 @@
+img {
+  border-radius: 100px;
+}
+
+body{
+  background-color: #f3ecc2;
+}
+h1{
+  font-size: 60px;
+  color: black;
+  border: 4px;
+  border-color: black;
+}
